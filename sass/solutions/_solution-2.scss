@@ -1,0 +1,5 @@
+#solution-2 {
+    .row [class^="col-"], .row [class*=" col-"]{
+        padding: 0;
+    }
+}
